@@ -1,2 +1,2 @@
 # react-calculator
-iphone calculator found on react website
+iphone calculator idea found on react website
